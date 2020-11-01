@@ -1,0 +1,25 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"> <div xmlns="http://www.w3.org/1999/xhtml"><style>
+.user-info {
+	display: inline-block;
+	float: left;
+	margin-right: 15px;
+	text-align: center;
+}
+
+.user-info img {
+	border-radius: 50%;
+}
+
+</style><div class="user-info">
+<a href="https://github.com/kkotha82" rel="nofollow"> 
+	<img src="https://avatars3.githubusercontent.com/u/15326217?v=4" alt="@kkotha82" style="max-width:100%;" width="100px;"/>
+	<br/>
+	<sub><b>@kkotha82</b></sub> 
+</a>
+</div><div class="user-info">
+<a href="https://github.com/varunsridharan" rel="nofollow"> 
+	<img src="https://avatars1.githubusercontent.com/u/1884287?v=4" alt="@varunsridharan" style="max-width:100%;" width="100px;"/>
+	<br/>
+	<sub><b>@varunsridharan</b></sub> 
+</a>
+</div></div></foreignObject></svg>
