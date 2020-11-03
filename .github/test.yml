@@ -1,0 +1,20 @@
+name: PHP CI/CD
+
+env:
+  VS_WORKFLOW_TYPE: "php-cicd"
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - '**.php'
+
+jobs:
+  apigen_docs:
+    name: "ApiGen Docs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "💾  Github Repository Metadata"
+        uses: varunsridharan/action-repository-meta@main
