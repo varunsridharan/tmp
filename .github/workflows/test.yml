@@ -5,20 +5,6 @@ env:
 
 on: 
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'     
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Test scenario tags' 
-      numOctocats:
-        description: 'Number of Octocats'
-        required: false
-        default: '1'
-      octocatEyeColor:
-        description: 'Eye color of the Octocats'
-        required: true
   push:
     branches:
       - master
@@ -31,5 +17,6 @@ jobs:
     name: "ApiGen Docs"
     runs-on: ubuntu-latest
     steps:
-      - name: "💾  Github Repository Metadata"
-        uses: varunsridharan/action-repository-meta@main
+      - uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: "varunsridharan"
