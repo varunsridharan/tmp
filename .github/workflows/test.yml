@@ -17,6 +17,9 @@ jobs:
     name: "ApiGen Docs"
     runs-on: ubuntu-latest
     steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
       - uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "ayushi7rawat"
