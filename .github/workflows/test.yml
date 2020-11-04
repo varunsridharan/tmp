@@ -19,4 +19,4 @@ jobs:
     steps:
       - uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: "varunsridharan"
+          USERNAME: "ayushi7rawat"
