@@ -24,3 +24,16 @@ Its just a temp repo
 - [Django vs Flask: Choose the best framework for you?](https://ayushi7rawat.hashnode.dev/django-vs-flask-choose-the-best-framework-for-you-ckfjb0cft03hdnws1696pctui)
 - [You are Important & so is your Mental Health!](https://ayushi7rawat.hashnode.dev/you-are-important-and-so-is-your-mental-health-ckfevhpm502pk65s1bctv5m4q)
 <!-- HASHNODE_BLOG:END -->
+
+
+<p align="center">
+  <a href=""><img align="right" width="200px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png"/></a>
+  <a href=""><h3>Build a Translator using Python</h3></a>
+  In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.\nRepository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!\nYou can refer to my ...
+</p>
+<br/>
+<p align="center">
+  <a href=""><img align="left" width="200px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png"/></a>
+  <a href=""><h3>Build a Translator using Python</h3></a>
+  In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.\nRepository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!\nYou can refer to my ...
+</p>
