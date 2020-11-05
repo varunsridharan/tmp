@@ -137,18 +137,3 @@ Repository for Ultimate Resource in python. Drop a star if yo...</p>
 You may experience good days, when your code successfully complies after days of hard work, t...</p>
 				
 <!-- HASHNODE_BLOG:END -->
-
-<!--
-<p align="left">
-  <a href=""><img align="right" width="200px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png"/></a>
-  <a href=""><strong>Build a Translator using Python</strong></a> <br/>
-  In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.\nRepository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!\nYou can refer to my ...
-</p>
-<br/>
-<p align="left">
-  <a href=""><img align="left" width="200px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png"/></a>
-  <a href=""><strong>Build a Translator using Python</strong></a> <br/>
-  In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.\nRepository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!\nYou can refer to my ...
-</p>
-
--->
