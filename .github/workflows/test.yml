@@ -22,6 +22,17 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
+      - name: "📥  GIST"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "88ca4064876a7971a1c61e8e19e42b98"
+          TYPE: "gist"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
+
+          
       - name: "📥  blog"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
