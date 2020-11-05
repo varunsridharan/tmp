@@ -15,5 +15,25 @@ You can refer ...</td><td><a href="https://ayushi7rawat.hashnode.dev/create-desk
 <a href="https://ayushi7rawat.hashnode.dev/create-desktop-notifier-using-python-ckglrydju0855nzs1b3oih4rp" title="Create Desktop Notifier using Python"><strong>Create Desktop Notifier using Python</strong></a>
 <br/> In this Blog article, we will learn how to send Desktop notifications . We will see the implementation in Python. 
 Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refe...</td></tr></table>
+You can refe...</td></tr><tr><td><a href="https://ayushi7rawat.hashnode.dev/screenshot-taker-with-python-ckghjthgq004uczs1az8h1bby" title="Screenshot Taker with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603165076375/DsnWhjNWK.png" alt="Screenshot Taker with Python"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/screenshot-taker-with-python-ckghjthgq004uczs1az8h1bby" title="Screenshot Taker with Python"><strong>Screenshot Taker with Python</strong></a>
+<br/> In this Blog article, we will see how to Capture a Screenshot . We will see the implementation in python. 
+Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+You can refer to my ...</td><td><a href="https://ayushi7rawat.hashnode.dev/youtube-video-downloader-using-python-ckgepk7ht0bzco9s1dmif8gfq" title="YouTube Video Downloader using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602828087282/MS14dCLM2.png" alt="YouTube Video Downloader using Python"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/youtube-video-downloader-using-python-ckgepk7ht0bzco9s1dmif8gfq" title="YouTube Video Downloader using Python"><strong>YouTube Video Downloader using Python</strong></a>
+<br/> In this Blog article, we will see how to download YouTube video. We will see the implementation in python. 
+Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+You can refer to my...</td></tr><tr><td><a href="https://ayushi7rawat.hashnode.dev/become-a-better-programmer-ckgc7sbhj05jmo9s1cnftgv32" title="Become a Better Programmer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602843096737/S270uYtBt.png" alt="Become a Better Programmer"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/become-a-better-programmer-ckgc7sbhj05jmo9s1cnftgv32" title="Become a Better Programmer"><strong>Become a Better Programmer</strong></a>
+<br/> Hi, Hope you are doing well!
+Here are 50 Tips to become a better programmer, overcome the common problems beginners face and boost your learning process. 😄✔️⭐️
+
+Set short term goals
+Understand what the problem says, Try asking the right question.
+De...</td><td><a href="https://ayushi7rawat.hashnode.dev/email-slicer-with-python-ckgag38it002fnqs1awbb1ewf" title="Email Slicer with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602738093985/mBJZ50TrS.png" alt="Email Slicer with Python"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/email-slicer-with-python-ckgag38it002fnqs1awbb1ewf" title="Email Slicer with Python"><strong>Email Slicer with Python</strong></a>
+<br/> In this Blog article, we will see how to slice any email into username and domain. We will see the implementation in python. 
+You can refer to my YouTube video tutorial for better Understanding
+https://www.youtube.com/watch?v=SrvqNAZ2Mh4
+Repository f...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
