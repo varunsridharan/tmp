@@ -24,6 +24,6 @@ jobs:
         with:
           USERNAME: "ayushi7rawat"
           COUNT: 17
-          STYLE: "blog"
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
