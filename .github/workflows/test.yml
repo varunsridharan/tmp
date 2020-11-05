@@ -20,10 +20,33 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - uses: "varunsridharan/action-hashnode-blog@main"
+      - name: "📥  blog"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "ayushi7rawat"
           COUNT: 17
+          FILE: "blog.md"
+          STYLE: "blog"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-left"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: "ayushi7rawat"
+          COUNT: 17
+          FILE: "blog-left.md"
           STYLE: "blog-left"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      - name: "📥  blog-right"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: "ayushi7rawat"
+          COUNT: 17
+          FILE: "blog-right.md"
+          STYLE: "blog-right"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
