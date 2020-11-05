@@ -3,7 +3,7 @@ name: PHP CI/CD
 env:
   VS_WORKFLOW_TYPE: "php-cicd"
   hashnode_username: 'ayushi7rawat'
-  count: 17
+  count: 4
 
 on:
   workflow_dispatch:
