@@ -7,7 +7,7 @@
 <br/> In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.
 Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
 You can refer to my ... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/create-url-shortner-with-python-ckgumvydy007pu5s1haz5gek2" title="Create URL Shortner with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603964120390/f0kqQvV-V.png" alt="Create URL Shortner with Python" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/create-url-shortner-with-python-ckgumvydy007pu5s1haz5gek2" title="Create URL Shortner with Python"><strong>Create URL Shortner with Python</strong></a>
 <br/> In this Blog article, we will learn how to Create a URL Shortner. URL shortening is the process of reducing the length of the URL. There are many messaging platforms where the length of the message is limited.  Here, anyone can face the issue in shar... </p> <br/> <br/>
@@ -17,7 +17,7 @@ You can refer to my ... </p> <br/> <br/>
 <br/> In this Blog article, we will learn how to Convert a Video into GIF . We will see the implementation in python. 
 Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
 You can refer ... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/create-desktop-notifier-using-python-ckglrydju0855nzs1b3oih4rp" title="Create Desktop Notifier using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603420759058/d4R1vI66E.png" alt="Create Desktop Notifier using Python" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/create-desktop-notifier-using-python-ckglrydju0855nzs1b3oih4rp" title="Create Desktop Notifier using Python"><strong>Create Desktop Notifier using Python</strong></a>
 <br/> In this Blog article, we will learn how to send Desktop notifications . We will see the implementation in Python. 
@@ -29,7 +29,7 @@ You can refe... </p> <br/> <br/>
 <br/> In this Blog article, we will see how to Capture a Screenshot . We will see the implementation in python. 
 Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
 You can refer to my ... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/youtube-video-downloader-using-python-ckgepk7ht0bzco9s1dmif8gfq" title="YouTube Video Downloader using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602828087282/MS14dCLM2.png" alt="YouTube Video Downloader using Python" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/youtube-video-downloader-using-python-ckgepk7ht0bzco9s1dmif8gfq" title="YouTube Video Downloader using Python"><strong>YouTube Video Downloader using Python</strong></a>
 <br/> In this Blog article, we will see how to download YouTube video. We will see the implementation in python. 
@@ -44,7 +44,7 @@ Here are 50 Tips to become a better programmer, overcome the common problems beg
 Set short term goals
 Understand what the problem says, Try asking the right question.
 De... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/email-slicer-with-python-ckgag38it002fnqs1awbb1ewf" title="Email Slicer with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602738093985/mBJZ50TrS.png" alt="Email Slicer with Python" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/email-slicer-with-python-ckgag38it002fnqs1awbb1ewf" title="Email Slicer with Python"><strong>Email Slicer with Python</strong></a>
 <br/> In this Blog article, we will see how to slice any email into username and domain. We will see the implementation in python. 
@@ -56,7 +56,7 @@ Repository f... </p> <br/> <br/>
 <a href="https://ayushi7rawat.hashnode.dev/the-ultimate-python-resource-hub-ckg8uz23501vud6s1bqamapuy" title="The Ultimate Python Resource hub"><strong>The Ultimate Python Resource hub</strong></a>
 <br/> A curated list of Ultimate Python resources is here! (If you are getting started with #Python or a senior Python developer, you wouldn't wanna miss this) 😄
 A lot of people have been recently asking me about python books, courses to refer and other r... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/convert-any-py-to-exe-with-python-ckg4kka7x04sye9s1b3azgvcs" title="Convert any .py to .exe with python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602214165961/YrmuUapxQ.png" alt="Convert any .py to .exe with python" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/convert-any-py-to-exe-with-python-ckg4kka7x04sye9s1b3azgvcs" title="Convert any .py to .exe with python"><strong>Convert any .py to .exe with python</strong></a>
 <br/> When you create a python program and you want to share it with the world and you want them to run your script without having to install python. You can do this by converting the .py file to .exe file. In this article, I will show you how you can do i... </p> <br/> <br/>
@@ -66,7 +66,7 @@ A lot of people have been recently asking me about python books, courses to refe
 <br/> You all must have heard about or seen a lot of  QR codes, I was thinking to create one for my blogging website and I decided to do the same with python. How cool right?
 Do you wish to know how to create one? Here's how you can do it!
 You can also ref... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/create-a-digital-clock-with-python-ckfxfc1to02r20es173u69x91" title="Create A Digital Clock with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1601949877754/EwsyxuiU_.png" alt="Create A Digital Clock with Python" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/create-a-digital-clock-with-python-ckfxfc1to02r20es173u69x91" title="Create A Digital Clock with Python"><strong>Create A Digital Clock with Python</strong></a>
 <br/> Hi everyone,
@@ -81,7 +81,7 @@ Repository... </p> <br/> <br/>
 You can also follow along with the video tutorial of the same!
 https://www.youtube.com/watch?v=ZWjXbe9DOVA
 Reposi... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/kickstart-your-blogging-journey-with-hashnode-ckfqpq07100g7ops1aly3a3l3" title="Kickstart your Blogging Journey with Hashnode!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1601550266819/vP59KfPAt.jpeg" alt="Kickstart your Blogging Journey with Hashnode!" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/kickstart-your-blogging-journey-with-hashnode-ckfqpq07100g7ops1aly3a3l3" title="Kickstart your Blogging Journey with Hashnode!"><strong>Kickstart your Blogging Journey with Hashnode!</strong></a>
 <br/> Do you read Blogs? Ever thought of writing one but stuck at how to start. This tutorial is for you.
@@ -92,7 +92,7 @@ Hashnode is a free content creation platform and community that allows you to pu
 <a href="https://ayushi7rawat.hashnode.dev/how-to-create-your-own-captcha-with-python-ckfnlw4lz003ip3s148k662or" title="How to create your own captcha with python"><strong>How to create your own captcha with python</strong></a>
 <br/> We perform daily activities on the internet. You must often encounter CAPTCHA and reCAPTCHA tests on the Internet. CAPTCHAs are used by any website that wishes to restrict usage by bots. Do you wish to know how to create one?
 You can also follow alon... </p> <br/> <br/>
-<p align="right">
+<p align="left">
 <a href="https://ayushi7rawat.hashnode.dev/django-vs-flask-choose-the-best-framework-for-you-ckfjb0cft03hdnws1696pctui" title="Django vs Flask: Choose the best framework for you?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1601042913881/XvI7G2q3r.png" alt="Django vs Flask: Choose the best framework for you?" width="250px" align="right" /></a>
 <a href="https://ayushi7rawat.hashnode.dev/django-vs-flask-choose-the-best-framework-for-you-ckfjb0cft03hdnws1696pctui" title="Django vs Flask: Choose the best framework for you?"><strong>Django vs Flask: Choose the best framework for you?</strong></a>
 <br/> Hi If you’re wondering whether you should use Flask or Django for your project, this article is for you. Both frameworks are written in Python. 
