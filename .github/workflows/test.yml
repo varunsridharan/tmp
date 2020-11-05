@@ -61,3 +61,23 @@ jobs:
           STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-grid"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-grid.md"
+          STYLE: "blog-grid"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-grid-4"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-grid-4.md"
+          STYLE: "blog-grid-4"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
