@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+
     - name: Generate POT file
-      uses: varunsridharan/action-wp-pot-generator@1.1
+      uses: varunsridharan/action-wp-pot-generator@main
       with:
         save_path: './languages'
         item_slug: 'plugin-slug'
