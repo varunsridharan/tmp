@@ -1,94 +1,19 @@
-name: PHP CI/CD
-
-env:
-  VS_WORKFLOW_TYPE: "php-cicd"
-  hashnode_username: 'ayushi7rawat'
-  count: 8
+name: Generate POT
 
 on:
-  workflow_dispatch:
-  push:
+  pull_request:
     branches:
-      - master
-      - main
-    paths:
-      - '**.php'
+      - test-pr
 
 jobs:
-  apigen_docs:
-    name: "ApiGen Docs"
+  i18n:
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📥  GIST"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "88ca4064876a7971a1c61e8e19e42b98"
-          TYPE: "gist"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
-
-          
-      - name: "📥  blog"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog.md"
-          STYLE: "blog"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "📥  blog-left"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog-left.md"
-          STYLE: "blog-left"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "📥  blog-right"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog-right.md"
-          STYLE: "blog-right"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "📥  blog-alternate"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog-alternate.md"
-          STYLE: "blog-alternate"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "📥  blog-grid"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog-grid.md"
-          STYLE: "blog-grid"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "📥  blog-grid-4"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog-grid-4.md"
-          STYLE: "blog-grid-3"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v2
+    - name: Generate POT file
+      uses: varunsridharan/action-wp-pot-generator@1.1
+      with:
+        save_path: './languages'
+        item_slug: 'plugin-slug'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
