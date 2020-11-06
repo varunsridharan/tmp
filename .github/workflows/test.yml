@@ -14,7 +14,6 @@ jobs:
         echo ${GITHUB_REF:11}
         echo ${GITHUB_REF}
         echo ${GITHUB_EVENT_NAME}
-        echo "---"
     - name: Generate POT file
       uses: varunsridharan/action-wp-pot-generator@main
       with:
