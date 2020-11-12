@@ -10,6 +10,8 @@ env:
     varunsridharan/docs
   
   WORKFLOW_FILES: |
+    php-file1.php
+    README.md=abd.md
 
 jobs:
   Github_Workflow_Sync:
