@@ -12,8 +12,10 @@ env:
  #   varunsridharan/docs@patch-2
   
   WORKFLOW_FILES: |
-    php-file1.php
-    README.md=abd.md
+    simple-file.php
+    folder/has/file.php
+    local-file.php=remote-file.php
+    local-file2.php!=remote-file2.php
 
 jobs:
   Github_Workflow_Sync:
