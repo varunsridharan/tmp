@@ -6,8 +6,9 @@ on:
 env:
   DRY_RUN: true
   REPOSITORIES: |
-    varunsridharan/composer-dashboard
     varunsridharan/docs
+    varunsridharan/docs@patch-1
+    varunsridharan/docs@patch-2
   
   WORKFLOW_FILES: |
     php-file1.php
