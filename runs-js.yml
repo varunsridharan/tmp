@@ -1,3 +1,5 @@
 runs:
   using: 'node12'
+  pre: 'dist/startup.js'
   main: 'dist/index.js'
+  post: 'cleanup.js'
