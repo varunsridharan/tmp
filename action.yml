@@ -1,3 +1,5 @@
+
+
 inputs:
 
   who_to_greet:
@@ -8,3 +10,5 @@ inputs:
   greet_with_emoji:
     description: 'Add (👋) Before The Greet Message'
     required: true
+
+
