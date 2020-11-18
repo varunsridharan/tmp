@@ -1,11 +1,3 @@
 runs:
   using: 'docker'
-  image: 'Dockerfile'
-  args:
-    - ${{ inputs.WORDPRESS_USERNAME }}
-    - ${{ inputs.WORDPRESS_PASSWORD }}
-    - ${{ inputs.SLUG }}
-    - ${{ inputs.VERSION }}
-    - ${{ inputs.ASSETS_DIR }}
-    - ${{ inputs.IGNORE_FILE }}
-    - ${{ inputs.ASSETS_IGNORE_FILE }}
+  image: 'Dockerfile' # Local Docker File
