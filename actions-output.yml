@@ -1,0 +1,3 @@
+outputs:
+  time:
+    description: 'The time we greeted you'
