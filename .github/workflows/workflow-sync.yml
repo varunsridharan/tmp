@@ -1,0 +1,33 @@
+name: Workflow Sync
+
+on:
+  workflow_dispatch:
+
+env:
+  DRY_RUN: true
+  REPOSITORIES: |
+    varunsridharan/docs
+ #   varunsridharan/docs-unknown
+ #   varunsridharan/docs@patch-1
+ #   varunsridharan/docs@patch-2
+  
+  WORKFLOW_FILES: |
+    simple-file.php
+    folder/has/file.php
+    copy-file-once.ignore!=
+    local-file.php=remote-file.php
+    local-file2.php!=remote-file2.php
+
+jobs:
+  Github_Workflow_Sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetching Local Repository
+        uses: actions/checkout@master
+      - name: Running Workflow Sync
+        uses: varunsridharan/action-github-workflow-sync@nodejs-fullrework
+        with:
+          DRY_RUN: ${{ env.DRY_RUN }}
+          REPOSITORIES: ${{ env.REPOSITORIES }}
+          WORKFLOW_FILES: ${{ env.WORKFLOW_FILES }}
+          GITHUB_TOKEN: ${{ secrets.GH_PUBLIC_REPO }}

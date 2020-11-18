@@ -1,0 +1,10 @@
+inputs:
+
+  who_to_greet:
+    description: 'Person's Name To Greet With"
+    default: 'World!'
+    required: false
+    
+  greet_with_emoji:
+    description: 'Add (👋) Before The Greet Message'
+    required: true

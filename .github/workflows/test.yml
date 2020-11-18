@@ -10,8 +10,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    
+    - run: |
+        echo $GITHUB_WORKSPACE
+        cd $GITHUB_WORKSPACE
+        ls -lah
+        echo " "
+        echo "-------------------"
+        echo " "
+
+        echo "${GITHUB_WORKSPACE}/../"
+        cd "${GITHUB_WORKSPACE}/../"
+        ls -lah
+        echo " "
+        echo "-------------------"
+        echo " "
+
+        echo "${GITHUB_WORKSPACE}/../../"
+        cd "${GITHUB_WORKSPACE}/../../"
+        ls -lah
+        echo " "
+        echo "-------------------"
+        echo " "
+
+
     - name: Generate POT file
-      uses: varunsridharan/action-wp-pot-generator@1.1
+      uses: varunsridharan/action-wp-pot-generator@main
       with:
         save_path: './languages'
         item_slug: 'plugin-slug'
