@@ -1,3 +1,7 @@
 outputs:
-  time:
-    description: 'The time we greeted you'
+
+  greet_time:
+    description: 'The time when we greeted you'
+    
+  is_emoji_shown:
+    description: 'Returns "Yes" if emoji is show before the greet message'
